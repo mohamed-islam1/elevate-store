@@ -138,7 +138,7 @@ function checkout() {
 const products = [
     {
         id: 1,
-        name: "Performance Running Tee",
+        name: "Performance Running sweat",
         price: 7500 ,
         img: "https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
         description: "Breathable fabric with moisture-wicking technology",
