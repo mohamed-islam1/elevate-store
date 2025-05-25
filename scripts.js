@@ -171,7 +171,7 @@ const products = [
     {
         id: 3,
         name: "white crew neck shirt",
-        price: 44.99,
+        price: 3500,
         img: "https://teamwear.blksport.com/wp-content/uploads/2018/04/Design_Your_Own_Gym_Tee_BLK.png",
         description: "High support with seamless construction",
         available: 50,
@@ -187,7 +187,7 @@ const products = [
     {
         id: 4,
         name: "Pro Running Jacket",
-        price: 89.99,
+        price: 10000,
         img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1f469e74b9d94633b5945d0a10883330_9366/Tiro_24_Training_Jacket_Kids_Blue_IR7501_01_laydown.jpg",
         description: "Windproof and water-resistant with reflective details",
         available: 50,
