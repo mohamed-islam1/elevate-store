@@ -202,7 +202,7 @@ const products = [
     },
     {
         id: 5,
-        name: "Compression Training Leggings",
+        name: "slim jacket",
         price:6000,
         img: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=736&q=80",
         description: "Muscle support and enhanced circulation",
