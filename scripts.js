@@ -267,8 +267,8 @@ const products = [
     {
         id: 9,
         name: "Light Support Sports Bra",
-        price: 42.99,
-        img: "https://images.unsplash.com/photo-1595341595379-cf2df1c6a95e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+        price: 3000,
+        img: "https://storage.googleapis.com/lulu-fanatics/product/80107/640/lululemon-lululemon-align-bra-2-pack-light-support-a-b-cup-french-press-french-press-white-white-061501-425738.jpg",
         description: "Perfect for yoga and low-impact activities",
         available: 50,
         sizes: ["XS", "S", "M", "L"],
