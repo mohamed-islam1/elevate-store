@@ -251,8 +251,8 @@ const products = [
     {
         id: 8,
         name: "Tech Joggers",
-        price: 64.99,
-        img: "https://images.unsplash.com/photo-1590681194673-1ff1547b1aa1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+        price: 4200,
+        img: "https://media-photos.depop.com/b1/16070889/1723140931_d43cbc6c68564459b5f9df14dd94170d/P0.jpg",
         description: "Stylish comfort for training and recovery",
         available: 50,
         sizes: ["S", "M", "L", "XL"],
