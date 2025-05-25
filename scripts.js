@@ -203,7 +203,7 @@ const products = [
     {
         id: 5,
         name: "Compression Training Leggings",
-        price: 69.99,
+        price:6000,
         img: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=736&q=80",
         description: "Muscle support and enhanced circulation",
         available: 50,
@@ -219,7 +219,7 @@ const products = [
     {
         id: 6,
         name: "Performance Hoodie",
-        price: 79.99,
+        price: 2800,
         img: "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80",
         description: "Warmth without weight for cool weather training",
         available: 50,
